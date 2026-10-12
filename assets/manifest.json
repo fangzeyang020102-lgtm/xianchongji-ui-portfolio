@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "slug": "01-cover",
+    "title": "作品起点",
+    "file": "assets/sections/01-cover.png",
+    "width": 2160,
+    "height": 1540,
+    "description": "品牌与核心界面组合展示",
+    "sha256": "9b39747b6b9153603559a9dffeb601bb04f325e6678137bf90d250538fd17678"
+  },
+  {
+    "index": 2,
+    "slug": "02-overview",
+    "title": "关于这个项目",
+    "file": "assets/sections/02-overview.png",
+    "width": 2160,
+    "height": 1260,
+    "description": "项目定位、体验目标与界面构成",
+    "sha256": "a4e755ed8e49c078e50799c6a5b07b61026a51b2ad96c883460a1259f03801dd"
+  },
+  {
+    "index": 3,
+    "slug": "03-visual-language",
+    "title": "自然 · 清新 · 有温度",
+    "file": "assets/sections/03-visual-language.png",
+    "width": 2160,
+    "height": 1450,
+    "description": "颜色、排版以及视觉语言",
+    "sha256": "800b1377c918a7436e46215de8e7baf9d49765531fd612214ebf4a7ca73d3451"
+  },
+  {
+    "index": 4,
+    "slug": "04-discovery",
+    "title": "从探索开始，遇见心仪好物",
+    "file": "assets/sections/04-discovery.png",
+    "width": 2160,
+    "height": 1900,
+    "description": "商城首页、商品分类与专区体验",
+    "sha256": "1474da15aea5d4a7ae5e20262916950b6acb882204f77c0f594be8209f91549b"
+  },
+  {
+    "index": 5,
+    "slug": "05-shopping",
+    "title": "好商品，值得被看见",
+    "file": "assets/sections/05-shopping.png",
+    "width": 2160,
+    "height": 1850,
+    "description": "商品详情、评价、购物车体验",
+    "sha256": "0a6e423e7a094b64771b82248e373399637e2459af496acb10d0ccb10660505c"
+  },
+  {
+    "index": 6,
+    "slug": "06-order",
+    "title": "从下单到售后，路径清晰",
+    "file": "assets/sections/06-order.png",
+    "width": 2160,
+    "height": 2320,
+    "description": "订单确认、支付、售后与订单管理",
+    "sha256": "2352e19aa0e7922bf5d827b0bc2638a211b455bc1f701e5732eff4acee7d4ed3"
+  },
+  {
+    "index": 7,
+    "slug": "07-membership",
+    "title": "把长期陪伴，变成可感知的权益",
+    "file": "assets/sections/07-membership.png",
+    "width": 2160,
+    "height": 1710,
+    "description": "会员中心、积分、优惠券及充值",
+    "sha256": "d315d559c2443b4a128e6ff3c6222aad912f67924215cbe953e8a7abad2719d4"
+  },
+  {
+    "index": 8,
+    "slug": "08-tiers",
+    "title": "会员等级，层次分明",
+    "file": "assets/sections/08-tiers.png",
+    "width": 2160,
+    "height": 1350,
+    "description": "不同等级会员视觉系统展示",
+    "sha256": "bf87a0a3dabb1b07131eaf2f69cfe48f047783f9a59caeae28d963d7f8643693"
+  },
+  {
+    "index": 9,
+    "slug": "09-interactions",
+    "title": "不止购物，还有日常陪伴",
+    "file": "assets/sections/09-interactions.png",
+    "width": 2160,
+    "height": 1800,
+    "description": "宠物管理、收藏与互动体验",
+    "sha256": "f74b9f9e406feb0012d05a62a8a8f56091f7d9808142149ba629121f7499e65a"
+  },
+  {
+    "index": 10,
+    "slug": "10-gallery",
+    "title": "完整界面总览",
+    "file": "assets/sections/10-gallery.png",
+    "width": 2160,
+    "height": 3520,
+    "description": "从核心购物流程到个人服务的全景展示",
+    "sha256": "6ca6aba4d5579ec7606fd8806d9d2fa30f234e1892d26792d205d9545bb7e92c"
+  },
+  {
+    "index": 11,
+    "slug": "11-brand-page",
+    "title": "品牌首页视觉延展",
+    "file": "assets/sections/11-brand-page.png",
+    "width": 2160,
+    "height": 1930,
+    "description": "品牌表达在长页面上的一致性",
+    "sha256": "18cbf611d8cf1d0a91c6ac9dfd0b6bb8c5966e3665da61dbeae3ee3a9bfde37b"
+  },
+  {
+    "index": 12,
+    "slug": "12-ending",
+    "title": "为每一份陪伴，设计更好的日常",
+    "file": "assets/sections/12-ending.png",
+    "width": 2160,
+    "height": 1150,
+    "description": "项目展示结束",
+    "sha256": "a6ee8ff13d190e92685a432c4d1a6a9f8f043ca9ce20c636b2741ad43139342b"
+  }
+]
